@@ -21,11 +21,13 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
+
 # 🛠 👨🏿‍💻Tech Stack 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs,git,github,vscode" /> 
  
 </p>
+
 <!-- GIF Section -->
 <h2 align="center">🚀😻Developer Workspace</h2>
 
