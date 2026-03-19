@@ -12,8 +12,6 @@
   💖 Hi 🥀, Arpit Jha
 </h1>
 
----
-
 <h2 align="center">📌 About Me</h2>
 
 - 💌 **Email:** codearpitjha@gmail.com  
@@ -23,7 +21,7 @@
 - 💻 **Passion:** DSA, backend, open source  
 - 🐐 **Fun fact:** Bihari humorous tech support 😭  
 
----
+
 
 <h2 align="center">🧠 Focus Areas</h2>
 
@@ -31,7 +29,7 @@
 - 🧩 Data Structures & Algorithms  
 - 🤖 AI / ML  
 
----
+
 
 <h2 align="center">📱 Connect With Me</h2>
 
@@ -47,7 +45,7 @@
 
 </p>
 
----
+
 
 <h2 align="center">👀 Profile Views</h2>
 
@@ -55,7 +53,7 @@
 <img src="https://komarev.com/ghpvc/?username=XCODINGorg&label=Profile%20Views&color=blueviolet&style=flat"/>
 </p>
 
----
+
 
 <h2 align="center">🛠 Tech Stack</h2>
 
@@ -63,7 +61,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs,git,github,vscode" />
 </p>
 
----
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -79,7 +77,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XCODINGorg&theme=midnight-purple&hide_border=false&layout=compact" />
 </p>
 
----
+
 
 <h2 align="center">📈 GitHub Activity Graph</h2>
 
@@ -87,15 +85,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=XCODINGorg&bg_color=0d1117&color=c084fc&line=a855f7&point=f472b6&area=true&hide_border=true" />
 </p>
 
----
 
-<h2 align="center">🐍 Contribution Snake</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/XCODINGorg/XCODINGorg/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 <h2 align="center">🕶️ Entering the Developer Matrix</h2>
 
@@ -111,7 +102,7 @@
   </i>
 </p>
 
----
+
 
 <h3 align="center">✍️ Dev Quote</h3>
 
@@ -119,7 +110,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
----
+
 
 <!-- Footer -->
 <p align="center">
