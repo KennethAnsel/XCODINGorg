@@ -6,6 +6,27 @@
 </p>
 <h1 align="center">
 
+<h1 align="center">
+  💖 Hi 🥀, I'm Arpit Jha
+  <img height="30" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/mona-whisper.gif"/>
+</h1>
+
+<h2 align="center">
+  📌 About Me 
+   <img height="25" src="https://raw.githubusercontent.com/KennethAnsel/KennethAnsel/main/mona-whisper.gif"/>
+</h2>
+
+<p align="left">
+
+- 💌 **Email:** anselfran06@gmail.com (For collaboration / projects / anything 😝😭)  
+- 🎓 **BCA Student** @ Rajasthan University  
+- 😈 **Ask me about:** Tech support, server-side projects, scaling codebase efficiency  
+- 🧢 **Pronouns:** he/him  
+- 💻 **Passion:** DSA, backend logic, open source  
+- 🐐 **Fun fact:** Your everyday niche & nonchalant neighbourhood-friendly humorous tech support  
+
+</p>
+
 ## 🧠 My Focus Areas
 - Web Development
 - DSA
