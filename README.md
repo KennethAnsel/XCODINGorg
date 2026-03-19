@@ -15,7 +15,7 @@
 <h2 align="center">📌 About Me</h2>
 
 - 💌 **Email:** codearpitjha@gmail.com  
-- 🎓 **BCA Student**  
+- 🎓 **BCA Student**  @Rajasthan Swayat Shasan P.G. Mahavidyalaya
 - 😈 **Ask me about:** Tech support, backend, scaling  
 - 🧢 **Pronouns:** She/her  
 - 💻 **Passion:** DSA, backend, open source  
