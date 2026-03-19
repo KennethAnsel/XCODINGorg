@@ -4,6 +4,7 @@
 <!-- Typing Animation -->
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+Chat!;Salutation+fellow+Developers!;Open+Source+Enthusiast;Always+Learning+New+Things!" /> 
 </p>
+<h1 align="center">
 
 ## 🧠 My Focus Areas
 - Web Development
