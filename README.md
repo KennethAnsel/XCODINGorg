@@ -18,7 +18,7 @@
 
 <p align="left">
 
-- 💌 **Email:** anselfran06@gmail.com (For collaboration / projects / anything 😝😭)  
+- 💌 **Email:** codearpitjha@gmail.com (For collaboration / projects / anything 😝😭)  
 - 🎓 **BCA Student** @ Rajasthan University  
 - 😈 **Ask me about:** Tech support, server-side projects, scaling codebase efficiency  
 - 🧢 **Pronouns:** he/him  
